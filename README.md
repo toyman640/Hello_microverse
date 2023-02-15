@@ -22,9 +22,9 @@
 - [:question: FAQ](#faq)
 - [:memo: License](#license)
 
-# :book: Portfolio review <a name="about-project"></a>
+# :book: Hello microverse project <a name="about-project"></a>
 
-**Portfolio review** is a simple HTML portfolio review.
+**Hello microverse project** is a simple HTML and CSS pages with linters integrated.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,7 +35,6 @@
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS3</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">JavaScript</a></li>
   </ul>
 </details>
 
@@ -47,15 +46,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :rocket: Live Demo <a name="live-demo"></a>
-
-- [Here is the link to the live experience](https://github.com/toyman640/Hello_microverse/).
-
-> |     | Mobile version                      | Desktop version                      |     |
-> | --- | ----------------------------------- | ------------------------------------ | --- |
-> |     | ![Screenshot1](./mobile.gif) | ![Screenshot2](./desktop.gif) |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :computer: Getting Started <a name="getting-started"></a>
 
@@ -79,7 +69,7 @@ git clone https://github.com/toyman640/Hello_microverse.git
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd Portfolio-review``**
+**``you@your-Pc-name:~$ cd Hello_microverse``**
 
 ### Install
 
